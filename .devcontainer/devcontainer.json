@@ -25,21 +25,22 @@
   "vscode": {
 	"settings": {},
 	"extensions": [
-	 "ms-azuretools.vscode-docker",
-	 "samuelcolvin.jinjahtml",
-	 "mhutchie.git-graph",
-	 "ms-python.python",
-	 "ms-python.vscode-pylance",
-	 "ryanluker.vscode-coverage-gutters",
-	 "meezilla.json",
-	 "eamodio.gitlens",
-	 "emmanuelbeziat.vscode-great-icons",
-	 "dongido.sync-env",
-	 "postman.postman-for-vscode",
-	 "github.vscode-github-actions",
-	 "foxundermoon.shell-format",
-	 "shardulm94.trailing-spaces",
-	 "github.vscode-pull-request-github"
+		"ms-azuretools.vscode-docker",
+		"samuelcolvin.jinjahtml",
+		"mhutchie.git-graph",
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"ryanluker.vscode-coverage-gutters",
+		"meezilla.json",
+		"eamodio.gitlens",
+		"emmanuelbeziat.vscode-great-icons",
+		"dongido.sync-env",
+		"postman.postman-for-vscode",
+		"github.vscode-github-actions",
+		"foxundermoon.shell-format",
+		"shardulm94.trailing-spaces",
+		"github.vscode-pull-request-github",
+		"medo64.render-crlf"
 	]
    }
   }
